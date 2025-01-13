@@ -6,7 +6,8 @@ SolidusSocial
 
 Social login support for Solidus. Solidus Social handles authorization, account
 creation and association through third-party services.
-Currently Facebook, Github and Google OAuth2 are available out of the box.
+Currently Googlem, Facebook, Github and X (formely Twitter) are available out of the box.
+Support for Apple ID and Microsoft (Entra and O365) might be offered down the road. 
 
 Installation
 ------------
